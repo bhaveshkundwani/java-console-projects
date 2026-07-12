@@ -1,0 +1,31 @@
+# ===========================
+# Java
+# ===========================
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# ===========================
+# Eclipse / STS
+# ===========================
+
+# Build output
+bin/
+
+# Eclipse metadata
+.metadata/
+
+# ===========================
+# OS files
+# ===========================
+
+.DS_Store
+Thumbs.db
