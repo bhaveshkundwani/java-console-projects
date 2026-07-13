@@ -56,7 +56,13 @@ This repository demonstrates my understanding of Java fundamentals, Object-Orien
 
 
 
-Projects will be added here as they are completed.
+| No. | Project                     | Status     |
+
+|-----|-----------------------------|------------|
+
+| 01  | Tic Tac Toe Game            | Completed  |
+
+
 
 
 
