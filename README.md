@@ -34,6 +34,7 @@ This repository demonstrates my understanding of Java fundamentals, Object-Orien
 | 03  | Library Management System   | Completed  |
 | 04  | Online Quiz System          | Completed  |
 | 05  | Inventory Management System | Completed  |
+| 06  | Movie Ticket Booking System | Completed  |
 
 
 ## Author
