@@ -2,7 +2,7 @@
 
 A collection of **Core Java** and **Advanced Java** console applications built while learning Java programming.
 
-This repository demonstrates my understanding of Java fundamentals, Object-Oriented Programming (OOP), collections, file handling, exception handling, and console-based application development.
+This repository demonstrates my understanding of Java fundamentals, Object-Oriented Programming (OOP), collections, file handling, exception handling, java database connectivity(JDBC) and console-based application development.
 
 ---
 
@@ -36,6 +36,7 @@ This repository demonstrates my understanding of Java fundamentals, Object-Orien
 | 05  | Inventory Management System | Completed  |
 | 06  | Movie Ticket Booking System | Completed  |
 | 07  | Employee Data Analyzer      | Completed  |
+| 08  | Mini Banking Application    | Completed  |
 
 
 ## Author
